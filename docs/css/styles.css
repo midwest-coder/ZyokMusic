@@ -11422,14 +11422,14 @@ header.masthead h1, header.masthead .h1 {
   }
 }
 
-#present-portfolio .container-fluid, #present-portfolio .container-sm, #present-portfolio .container-md, #present-portfolio .container-lg, #present-portfolio .container-xl, #present-portfolio .container-xxl {
+.present-portfolio .container-fluid, .present-portfolio .container-sm, .present-portfolio .container-md, .present-portfolio .container-lg, .present-portfolio .container-xl, .present-portfolio .container-xxl {
   max-width: 1920px;
 }
-#present-portfolio .container-fluid .portfolio-box, #present-portfolio .container-sm .portfolio-box, #present-portfolio .container-md .portfolio-box, #present-portfolio .container-lg .portfolio-box, #present-portfolio .container-xl .portfolio-box, #present-portfolio .container-xxl .portfolio-box {
+.present-portfolio .container-fluid .portfolio-box, .present-portfolio .container-sm .portfolio-box, .present-portfolio .container-md .portfolio-box, .present-portfolio .container-lg .portfolio-box, .present-portfolio .container-xl .portfolio-box, .present-portfolio .container-xxl .portfolio-box {
   position: relative;
   display: block;
 }
-#present-portfolio .container-fluid .portfolio-box .portfolio-box-caption, #present-portfolio .container-sm .portfolio-box .portfolio-box-caption, #present-portfolio .container-md .portfolio-box .portfolio-box-caption, #present-portfolio .container-lg .portfolio-box .portfolio-box-caption, #present-portfolio .container-xl .portfolio-box .portfolio-box-caption, #present-portfolio .container-xxl .portfolio-box .portfolio-box-caption {
+.present-portfolio .container-fluid .portfolio-box .portfolio-box-caption, .present-portfolio .container-sm .portfolio-box .portfolio-box-caption, .present-portfolio .container-md .portfolio-box .portfolio-box-caption, .present-portfolio .container-lg .portfolio-box .portfolio-box-caption, .present-portfolio .container-xl .portfolio-box .portfolio-box-caption, .present-portfolio .container-xxl .portfolio-box .portfolio-box-caption {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11445,16 +11445,16 @@ header.masthead h1, header.masthead .h1 {
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#present-portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #present-portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #present-portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #present-portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #present-portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category, #present-portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-category {
+.present-portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, .present-portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, .present-portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, .present-portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, .present-portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category, .present-portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#present-portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #present-portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #present-portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #present-portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #present-portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name, #present-portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-name {
+.present-portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, .present-portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, .present-portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, .present-portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, .present-portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name, .present-portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
 }
-#present-portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #present-portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #present-portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #present-portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #present-portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #present-portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
+.present-portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, .present-portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, .present-portfolio .container-md .portfolio-box:hover .portfolio-box-caption, .present-portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, .present-portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, .present-portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
 
